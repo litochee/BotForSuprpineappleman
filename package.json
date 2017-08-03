@@ -1,0 +1,11 @@
+{
+  "name": "botforsuprpineappleman",
+  "version": "1.0.0",
+  "description": "bot for reddit user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Litochee",
+  "license": "MIT"
+}
